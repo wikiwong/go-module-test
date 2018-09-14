@@ -1,1 +1,1 @@
-module github.com/wikiwong/go-module-test/v2
+module github.com/wikiwong/go-module-test/v3
